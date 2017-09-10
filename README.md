@@ -1,5 +1,5 @@
 EVENSTRONGER
 
 
-[a quick demo](https://www.google.com "Evenstronger")
+[Click here for DEMO ](https://iamevenstronger.github.io/simple-calculator/index.html "Evenstronger")
 
